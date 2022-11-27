@@ -1,4 +1,4 @@
-package noveExercicios;
+package Exercicios;
 import java.util.*;
 public class Idade {
 	public static void main (String[]args) {
