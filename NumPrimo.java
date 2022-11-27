@@ -5,7 +5,7 @@ public class NumPrimo {
 		Scanner in = new Scanner(System.in);
 		double i, n, a=0;
 	
-System.out.println("Digite um número");
+		System.out.println("Digite um número");
 		n = in.nextDouble();
 	
 		for (i=1; i<=n; i++) {
