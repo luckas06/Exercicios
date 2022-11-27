@@ -11,7 +11,7 @@ public class Temperatura {
 		}else if (t>=22) {
 			System.out.println("Quente");
 		}else {
-			System.out.println("Amenua");
+			System.out.println("Amena");
 		}in.close();
 	}
 }
