@@ -1,4 +1,4 @@
-package Classicos;
+package Exercicios;
 import java.util.*;
 public class FaixaEtaria {
 	public static void main(String[]args) {
