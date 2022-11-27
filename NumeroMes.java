@@ -1,4 +1,4 @@
-package placaVeiculo;
+package Exercicios;
 import java.util.*;
 public class NumeroMes {
 	public static void main (String[]args) {
