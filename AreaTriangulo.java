@@ -1,4 +1,4 @@
-package dozeEx;
+package Exercicios;
 import java.util.*;
 public class AreaTriangulo {
 	public static void main (String arg[]) {
