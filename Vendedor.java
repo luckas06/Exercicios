@@ -1,6 +1,6 @@
 package Exercicios;
 import java.util.*;
-public class vendedor {
+public class Vendedor {
 	public static void main (String arg[]) {
 		Scanner in = new Scanner (System.in);
 		int venda;
