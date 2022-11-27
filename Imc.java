@@ -1,4 +1,4 @@
-package noveExercicios;
+package Exercicios;
 import java.util.*;
 public class Imc {
 	public static void main (String[]args) {
@@ -9,7 +9,7 @@ public class Imc {
 		System.out.println("Digite sua altura");
 		altura=in.nextDouble();
 		imc=peso/(altura*altura);
-		System.out.println("Seu IMC é"+imc);
+		System.out.println("Seu IMC é "+imc);
 		if (imc<=18.5) {
 			System.out.println("Excesso de magreza");
 		}else if (imc<=25) {
