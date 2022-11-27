@@ -1,11 +1,11 @@
-package exerciciosCaderno;
+package Exercicios;
 import java.util.*;
-public class temperatura {
-	public static void main (String arg[]) {
+public class Temperatura {
+	public static void main (String[]args) {
 		Scanner in=new Scanner (System.in);
 		int t;
 		System.out.println("Escreva a temperatura");
-		t=in.nextInt();
+		t = in.nextInt();
 		if (t<15) {
 			System.out.println("Frio");
 		}else if (t>=22) {
