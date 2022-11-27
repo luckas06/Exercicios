@@ -1,15 +1,15 @@
-package dozeEx;
+package Exercicios;
 import java.util.*;
-public class kmLitros {
-	public static void main (String arg[]) {
-		Scanner in=new Scanner (System.in);
+public class KmLitros {
+	public static void main (String[]args) {
+		Scanner in = new Scanner (System.in);
 		double km, gas, media;
 		System.out.println("Digite a distância percorrida");
-		km=in.nextDouble();
+		km = in.nextDouble();
 		System.out.println("Digite o combústivel gasto");
-		gas=in.nextDouble();
-		media=km/gas;
-		System.out.println("o consumo médio dessa viagem é:"+media);
+		gas = in.nextDouble();
+		media = km / gas;
+		System.out.println("o consumo médio dessa viagem é "+media);
 		in.close();
 	}
 }
